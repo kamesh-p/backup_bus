@@ -1,0 +1,28 @@
+.para-sign {
+  justify-content: center !important;
+
+  align-items: center !important;
+  height: 60vh !important;
+  text-align: justify;
+  padding: 20px;
+}
+.btn-sign {
+  margin-top: 40px !important;
+  display: flex !important;
+  flex-direction: row !important;
+}
+.box {
+  width: 500px !important;
+}
+.box-item {
+  width: 320px;
+}
+.img-sign {
+  width: 300px !important;
+}
+.btn-book-sign {
+  margin-left: 150px !important;
+}
+.h2-mumbai {
+  margin: 50px 0px;
+}

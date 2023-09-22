@@ -1,0 +1,40 @@
+.navbar,
+header {
+  margin-bottom: 10px !important;
+}
+.nav-div-class {
+  margin-left: 650px;
+}
+.nav-link {
+  color: black !important;
+}
+.nav-item {
+  margin: 0px 20px 0px 20px !important;
+}
+#dropdown-menu-align-end {
+  background-color: transparent !important;
+  border: 0px !important;
+  color: black !important;
+}
+.Login-page {
+  text-decoration: none !important;
+  color: black !important;
+}
+.Login-page:hover {
+  color: black !important;
+}
+.header-nav-bar {
+  display: flex !important;
+}
+.Title-connect {
+  color: purple;
+
+  font-size: 30px;
+
+  font-weight: bolder;
+
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+
+  margin-left: 20px;
+  width: 200px !important;
+}

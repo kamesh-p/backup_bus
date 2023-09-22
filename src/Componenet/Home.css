@@ -1,0 +1,40 @@
+.inp-date,
+.Form-Control,
+.btn-search {
+  width: 170px !important;
+  height: 56px !important;
+}
+.SearchBar {
+  margin-top: 100px !important ;
+  height: 280px;
+}
+.h2-intro {
+  text-align: left;
+  margin-bottom: 50px;
+  color: brown;
+}
+.textfield {
+  margin-left: 200px !important;
+}
+img {
+  height: 150px !important;
+  width: 150px;
+}
+
+.section2 {
+  margin: 30px;
+}
+.section21 {
+  background-color: #faf7f7 !important;
+}
+.section21:hover {
+  background-color: #f2f2f2 !important;
+}
+.para {
+  justify-content: center !important;
+  display: flex !important;
+  align-items: center !important;
+  height: 35vh !important;
+  text-align: justify;
+  padding: 20px;
+}
